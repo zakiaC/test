@@ -2,26 +2,16 @@ export const socials = [
   {
     title: 'Instagram',
     icon: 'mdi:instagram',
-    url: 'https://www.instagram.com/jaydanurwin/',
+    url: 'https://www.instagram.com/allyah_semiai/',
   },
   {
     title: 'Twitter',
     icon: 'mdi:twitter',
-    url: 'https://twitter.com/littlesticksdev',
+    url: 'https://twitter.com/Allyahsemiai',
   },
   {
-    title: 'YouTube',
-    icon: 'mdi:youtube',
-    url: 'https://youtube.com/c/LittleSticks',
-  },
-  {
-    title: 'GitHub',
-    icon: 'mdi:github',
-    url: 'https://github.com/littlesticksdev',
-  },
-  {
-    title: 'Dribbble',
-    icon: 'mdi:dribbble',
-    url: 'https://dribbble.com/littlesticksdev',  
+    title: 'Linkedin',
+    icon: 'mdi:linkedin',
+    url: 'https://www.linkedin.com/in/allyah-semiai-840634234/',
   }
 ]
