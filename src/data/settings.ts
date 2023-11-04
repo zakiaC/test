@@ -1,6 +1,6 @@
 export const settings = {
-  site: 'https://cannonball.littlesticks.dev',
-  name: 'Little Sticks',
+  site: 'https://missin-better-together.com',
+  name: 'Mission Better Together',
   title: 'Mission Better together | site temporaire',
-  description: 'This is a simple splash page template built with Astro by Little Sticks',
+  description: 'This is a simple splash page template built with Astro by Allyah Semiai',
 }
